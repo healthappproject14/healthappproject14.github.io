@@ -8,6 +8,21 @@ html {
   min-height: 100%;
 }
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding-right: 5%;
+  // border-right: 10px solid black;
+  // margin: 10px;
+}
+
+.row:after{
+  content: "";
+  display: table;
+  clear: both;
+  // background-color: red;
+}
+
 body {
   margin: 0;
   padding: 0;

@@ -2,10 +2,9 @@
 layout: archive
 ---
 
-{{ content }}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
+{{ content }} 
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+ 
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
@@ -15,6 +14,56 @@ layout: archive
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% include documents-collection.html entries=posts type=entries_layout %}
-</div>
+</div> -->
+<center>
+  <h1>Where Ingenuity Meets Community</h1>
+
+  <p>At HoodyHerd, we learn to code and improve our problem solving skills through developing 2D games and mobile apps. 
+    As we develop coding expertise, we build software that benefits our communities.</p>
+
+
+    <button class="btn btn--inverse btn--x-large">Join the Herd</button>
+  </br>
+
+    <img style="height: 380px; width: 489px;" src="assets/images/logoBlack.png"></img>
+
+    <div class="container">
+      <div class="row justify-center">
+        <div class="mb-14 md:col-6 lg:col-4">
+          
+        </div>
+      </div>
+    </div>
+  </section>
+  <center>
+    <br/>
+    <h1>Our Tracks:</h1>
+  <!-- </br> -->
+    <div class="row">
+      <div class="column">
+        <h2>GODOT</h2>
+        <img src="assets/images/godotlogo.png" width="100", height="100"></img>
+      </br>
+        <p>Learn the fundamentals of coding by creating games. Godot is a free-to-use open source game engine. Our curriculum navigates students through making games playable on itch.io.</p>
+      </div>
+      <div class="column">
+        <h2>THUNKABLE</h2>
+        <img src="assets/images/thunkablelogo.png" width="100", height="100"></img>
+      </br>
+        <p>Using Thunkable, members learn how to develop cross-platform mobile apps that can be used on Android and iOS devices.  They can also be uploaded to the Google Play / App Stores.</p>
+      </div>
+      <div class="column">
+        <h2>PYTHON</h2>
+        <img src="assets/images/pythonlogo.png" width="100", height="100"></img>
+      </br>
+        <p>For members of the Herd who want the more authentic coding experience, and want to learn a language widely used in industry, Python will be used to create standalone applicatons.</p>
+      </div>
+    </div>
+    </center>
+
+
+
+
+</center>
 
 {% include paginator.html %}
