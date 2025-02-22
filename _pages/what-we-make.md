@@ -1,13 +1,15 @@
 ---
-title: "Mission & Vision"
-permalink: /missionVision/
+title: "What We Make"
+permalink: /whatWeMake/
 ---
 
 
-> HOODYHERD serves as a hub where teens gather to learn, build, grow, and support their communities.
-
+> Learning By Doing
+<div align="center">
+ <h2> Game Development </h2>
+</div>
 <center>
-We provide an online space for teens to make games, mobile apps, and other things with code, while simultaneously cultivating skills that will help them be successful in an ever-expanding, technological world. HOODYHERD serves as a hub where teens gather to learn, build, grow, and support their communities.
+Godot is a powerful open-source game engine that we use to make our games. It is easily downloadable, and does not require intensive set up or installation. At HoodyHerd, we primarily make 2D games.
 </center>
 
 <br>
