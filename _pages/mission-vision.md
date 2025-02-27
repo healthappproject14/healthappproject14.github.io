@@ -7,7 +7,7 @@ permalink: /missionVision/
 > HOODYHERD serves as a hub where teens gather to learn, build, grow, and support their communities.
 
 <center>
-We provide an online space for teens to make games, mobile apps, and other things with code, while simultaneously cultivating skills that will help them be successful in an ever-expanding, technological world. HOODYHERD serves as a hub where teens gather to learn, build, grow, and support their communities.
+We provide an online space for teens to make games, mobile apps, and other things with code, while simultaneously cultivating skills that will help them be successful in an ever-expanding, technological world. 
 </center>
 
 <br>
@@ -19,7 +19,7 @@ We provide an online space for teens to make games, mobile apps, and other thing
 <br>
 
 <center>
-With our project-based learning approach, teens are encouraged to get messy, and engage in the whole process of learning. At the end, they’ll come out with a completed project they can speak to, and be proud of. As they make stuff, not only are they practicing in-demand skills, they’re also building up a portfolio of projects they can speak to as they move into more professional spaces.
+With our project-based learning approach, teens are encouraged to get messy, and engage in the whole process of learning. At the end, they’ll come out with a completed projects they can speak to in personal and professional settings.
 </center>
 <br>
 
@@ -29,18 +29,19 @@ With our project-based learning approach, teens are encouraged to get messy, and
 
 <br>
 <center>
-In many programs, the focus is on memorizing coding principles. HoodyHerd prioritizes learning by creating solutions to business problems using tech as the medium.  We create projects, get stuck, unstuck, and complete said projects. 
+In many programs, the focus is on memorizing coding principles. HoodyHerd prioritizes learning by making - not just learning to learn. We create projects, get stuck, unstuck, and complete said projects. 
 </center>
 <br>
+
 
 <center>
-<img title="code screenshot" src="/assets/images/noAIScreen.png">
+<img title="collab screenshot" src="/assets/images/collab.jpg">
 </center>
 
 <br>
 <center>
-HoodyHerd is FOR HUMANS, BY HUMANS. Software written by Herd members are written by humans, without support from AI. Using AI can hinder problem-solving, creativity, and learning, which are pillars of HoodyHerd. 
+Following participation and as the program grows, students will be invited to join a discord community with other members. In this community, opportunities & resources to continue to build and strengthen portfolios will be provided. The vision is a community of teen developers, working together, making software for small/local businesses in their communities (paid & unpaid).
+</center>
 <br>
 
-<h2>By becoming a member of the HERD, you agree to not use AI to make software in this program.</h2>
-</center>
+
