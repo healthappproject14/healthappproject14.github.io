@@ -40,7 +40,7 @@ In many programs, the focus is on memorizing coding principles. HoodyHerd priori
 
 <br>
 <center>
-Following participation and as the program grows, students will be invited to join a discord community with other members. In this community, opportunities & resources to continue to build and strengthen portfolios will be provided. The vision is a community of teen developers, working together, making software for small/local businesses in their communities (paid & unpaid).
+Following participation and as the program grows, students will be invited to join a discord community with other members. In this community, opportunities & resources to continue to build and strengthen portfolios will be provided. The vision is a community of developers, working together, making software for small/local businesses in their communities (paid & unpaid).
 </center>
 <br>
 
