@@ -9,7 +9,7 @@ permalink: /whatWeMake/
  <h2> Game Development </h2>
 </div>
 <center>
-Godot is a powerful open-source game engine that we use to make our games. It is easily downloadable, and does not require intensive set up or installation. At HoodyHerd, we primarily make 2D games.
+Godot is a open-source game engine that we use to make 2D games. It is easily downloadable, and does not require intensive set up or installation.
 </center>
 
 <br>
@@ -24,7 +24,7 @@ Godot is a powerful open-source game engine that we use to make our games. It is
  <h2> Phone Apps </h2>
 </div>
 <center>
-Thunkable is a powerful platform that allows anyone to create apps without being experts at code. It utilizes block coding, design elements and various plugins to provide students with the ability to bring their ideas to life. It’s all browser based, so no set up necessary!
+Thunkable is a platform that allows anyone to create apps without being experts at code. It utilizes block coding, design elements and various plugins to provide students with the ability to bring their ideas to life. It’s all browser based, so no set-up necessary!
 </center>
 
 <br>

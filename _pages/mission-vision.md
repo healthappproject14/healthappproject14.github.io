@@ -19,7 +19,7 @@ We provide an online space for teens to make games, mobile apps, and other thing
 <br>
 
 <center>
-With our project-based learning approach, teens are encouraged to get messy, and engage in the whole process of learning. At the end, they’ll come out with a completed projects they can speak to in personal and professional settings.
+With our project-based learning approach, teens are encouraged to get messy and engage in the whole process of learning. By the end of the program, they’ll come out with a completed projects they can speak to in personal and professional settings.
 </center>
 <br>
 
@@ -29,7 +29,7 @@ With our project-based learning approach, teens are encouraged to get messy, and
 
 <br>
 <center>
-In many programs, the focus is on memorizing coding principles. HoodyHerd prioritizes learning by making - not just learning to learn. We create projects, get stuck, unstuck, and complete said projects. 
+In many programs, the focus is on memorizing coding principles. HoodyHerd prioritizes learning by making - not just learning to learn. We start, get stuck, unstuck, and complete projects.
 </center>
 <br>
 
